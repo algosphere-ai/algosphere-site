@@ -18,7 +18,7 @@ const Page = () => {
       <StepperDialog />
       <nav className="w-[90vw] flex items-center md:gap-12 justify-between py-3 px-5 rounded-lg bg-lightgrey border border-gray-300/10 my-6 drop-shadow-xl">
         <div className="flex items-center gap-4">
-          <img src="https://media.discordapp.net/attachments/1138410622732750898/1330647217236611242/alpha.png?ex=678ebd4a&is=678d6bca&hm=fb2253558373c1a506985b98c4dbfde3aa27441df5d83d6d311daaf15c6a7699&=&format=webp&quality=lossless" alt="Alpha Logo" className="w-8 h-8 rounded-full" />
+          <img src="/algosphere.png" alt="Algosphere" className="w-8 h-8 rounded-full" />
           <h1 className="text-xl font-bold text-white/80">AlgoSphere</h1>
         </div>
         <div className="flex items-center md:gap-8 gap-4">
